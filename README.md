@@ -23,7 +23,7 @@ Each simulation round had 3 rotating teams:
 | 1     | XSS (Reflected & Stored)         | ✅ Done  |
 | 2     | SQL Injection, Brute Force       | ✅ Done  |
 | 3     | File Upload, Command Injection   | ✅ Done  |
-| 4     | LFI, CSRF (bonus round)          | ✅ Done  |
+
 
 ---
 
