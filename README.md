@@ -60,7 +60,7 @@ Shoutout to our crew:
 
 Let this be the start of more advanced lab simulations.
 
-👉 Follow our journey: [@techsyndicates](https://instagram.com/techsyndicates)
+👉 Follow our journey: [@techsyndicates_](https://instagram.com/techsyndicates_)
 
 
 
