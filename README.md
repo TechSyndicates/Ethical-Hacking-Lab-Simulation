@@ -37,10 +37,10 @@ All reports are inside the `Reports/` folder, organized round-wise. Includes scr
 
 Shoutout to our crew:
 
-- Ved Pakhare (Lead & Initiator)  
-- Sachin Gupta  
-- Avinash Patel  
-- Pruthviraj Kanitkar  
+- [@vedpakhare](https://github.com/vedpakhare) (Lead & Initiator)  
+- [@Sachingupta23](https://github.com/Sachingupta23)  
+- [@AvinashP116](https://github.com/AvinashP116)  
+- [@PruthvirajKanitkar](https://github.com/PruthvirajKanitkar)  
 - Aryan Dabhade  
 - Amey Parab  
 - Nagarjun Helambkar  
